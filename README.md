@@ -1,7 +1,7 @@
 ### Olá pessoal, sejam bem-vindos 👋
 
 - 🔭 Atualmente trabalho com a Linguagem Delphi e Banco de dados SQL Oracle.
-- 🌱 Estou estudando Flutter e Java Script.
+- 🌱 Estou estudando Kotlin com o foco em desenvolvimento de aplicitivos para Android.
 
 <div>
   <a href="https://github.com/rauloliveira28">
@@ -11,10 +11,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Raul-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Raul-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Raul-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Raul-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Raul-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  
 </div>
   
 ##
